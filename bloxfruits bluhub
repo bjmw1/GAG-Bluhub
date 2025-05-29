@@ -6,7 +6,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 local minimizeUI = Enum.KeyCode.RightAlt
 
 local Window = Fluent:CreateWindow({
-    Title = "Hutao hub [FREE]",
+    Title = "Bluhhub",
     SubTitle = "Blox Fruits",
     TabWidth = 160,
     Size = UDim2.fromOffset(480, 360),
